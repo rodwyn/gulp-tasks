@@ -1,0 +1,14 @@
+{
+  "name": "gulp-tasks",
+  "version": "1.0.0",
+  "description": "A basic website using gulpJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodwyn Moreno",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
