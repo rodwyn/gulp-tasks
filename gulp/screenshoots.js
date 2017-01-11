@@ -8,12 +8,6 @@ var gulp = require('gulp'),
         lazy: false
     }),
     config = require('./config/config.json');
-    // ,
-    // ,
-    // scripts = require('./config/scripts.json'),
-    // options = {
-    //   "lint": true,
-    // };
 
 gulp.task('screens', ['clean-screens'], function() {
   gulp.start('generate-screens');
