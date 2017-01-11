@@ -1,6 +1,7 @@
 {
   "path": {
-    "build":     "./dist/",
-    "js":        "./source/assets/javascripts/**/*.js"
-  }
+    "build":         "./dist/",
+    "js":            "./source/assets/javascripts/**/*.js"
+  },
+  "screenSizes":  [320, 375, 425, 768, 1024]
 }
