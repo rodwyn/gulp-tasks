@@ -1,0 +1,6 @@
+{
+  "path": {
+    "build":     "./dist/",
+    "js":        "./source/assets/javascripts/**/*.js"
+  }
+}

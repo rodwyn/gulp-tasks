@@ -1,0 +1,21 @@
+{
+  "name": "gulp-tasks",
+  "description": "A basic website using gulpJs",
+  "main": "index.js",
+  "authors": [
+    "Rodwyn Moreno"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rodwyn/gulp-tasks",
+  "devDependencies": {
+    "sticky-kit": "^1.1.2",
+    "owl.carousel": "^2.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

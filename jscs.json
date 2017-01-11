@@ -54,5 +54,5 @@
   "safeContextKeyword": "_this",
   "validateLineBreaks": "LF",
   "validateQuoteMarks": "'",
-  "validateIndentation": 4
+  "validateIndentation": 2
 }

@@ -9,10 +9,22 @@
   "author": "Rodwyn Moreno",
   "license": "ISC",
   "devDependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-jscs-custom": "^0.1.6",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.4.0",
     "gulp-local-screenshots": "^2.2.0",
+    "gulp-prompt": "^0.2.0",
+    "gulp-rename": "^1.2.2",
     "gulp-uglify": "^2.0.0",
-    "phantomjs": "^2.1.7"
+    "gulp-zip": "^3.2.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "phantomjs": "^2.1.7",
+    "require-dir": "^0.3.1"
   },
   "dependencies": {
     "static-server": "^2.0.3"
