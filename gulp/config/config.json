@@ -2,6 +2,8 @@
   "path": {
     "build":                "./dist/",
     "css":                  "./source/assets/stylesheets/**/*.scss",
+    "fonts":                "./source/assets/fonts/**/*",
+    "icons":                "./source/assets/icons/**/*.svg",
     "img":                  "./source/assets/images/**/**.{png,gif,jpg}",
     "js":                   "./source/assets/javascripts/**/*.js"
   },
