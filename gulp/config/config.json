@@ -1,10 +1,12 @@
 {
   "path": {
     "build":                "./dist/",
+    "css":                  "./source/assets/stylesheets/**/*.scss",
+    "img":                  "./source/assets/images/**/**.{png,gif,jpg}",
     "js":                   "./source/assets/javascripts/**/*.js"
   },
   "screenSizes":            [320, 375, 425, 768, 1024],
-    "scriptsDependencies":  [
+  "scriptsDependencies":    [
                               "bower_components/owl.carousel/dist/owl.carousel.min.js",
                               "bower_components/sticky-kit/jquery.sticky-kit.min.js"
                             ],
